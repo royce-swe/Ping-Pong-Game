@@ -17,14 +17,10 @@ A simple yet fun Pong game built in Java using **Swing** for GUI and **Object-Or
 
 ## How to Run  
 1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Pong-Game.git
-2. **Navigate to the Project Folder:**
-   ```bash
-  cd Pong-Game
-4. **Compile the Java Files:**
-   ```bash
-  javac *.java
-5. **Run the Game:**
-   ```bash
-   java GameFrame
+   `git clone https://github.com/YOUR_GITHUB_USERNAME/Pong-Game.git`  
+2. **Navigate to the Project Folder:**  
+   `cd Pong-Game`  
+3. **Compile the Java Files:**  
+   `javac *.java`  
+4. **Run the Game:**  
+   `java GameFrame`  
