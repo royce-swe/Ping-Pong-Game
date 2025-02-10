@@ -23,4 +23,9 @@ A simple yet fun Pong game built in Java using **Swing** for GUI and **Object-Or
 3. **Compile the Java Files:**  
    `javac *.java`  
 4. **Run the Game:**  
-   `java GameFrame`  
+   `java GameFrame`
+
+## Screenshots  
+Here is a preview of the game:  
+
+![Pong Game Screenshot]([screenshots/pong-game.png](https://github.com/royce-swe/Ping-Pong-Game/blob/main/Gameplay.png)) 
