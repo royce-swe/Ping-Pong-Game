@@ -28,4 +28,5 @@ A simple yet fun Pong game built in Java using **Swing** for GUI and **Object-Or
 ## Screenshots  
 Here is a preview of the game:  
 
+![Selection Screenshot](SelectionScreen.png)
 ![Pong Game Screenshot](Gameplay.png) 
